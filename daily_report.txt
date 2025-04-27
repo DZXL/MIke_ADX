@@ -1,282 +1,193 @@
 Day 1 Summary for ProfitAgent:
 🧾 Campaigns up for auction: 5
-🎯 Campaigns won: 5
+🎯 Campaigns won: 4
 👥 Users auctioned: 10000
-🎯 Targetable users (in your segments): 789
+🎯 Targetable users (in your segments): 1867
 📢 Impressions won: 0
 ✅ Impression success rate: 0.00%
 📊 Quality Score (Q): 1.0000
 ------------------------------------------------------------
 📝 Current tasks for ProfitAgent:
-  - Campaign 5446: segment=MarketSegment({'Old', 'HighIncome', 'Male'}), days=1-2, reach=404, budget=404.00, done=0/404 (0.0%), cost=0.00
-  - Campaign 5457: segment=MarketSegment({'Young', 'HighIncome', 'Female'}), days=2-2, reach=76, budget=7.60, done=0/76 (0.0%), cost=0.00
-  - Campaign 5460: segment=MarketSegment({'Young', 'Female'}), days=2-4, reach=1118, budget=111.80, done=0/1118 (0.0%), cost=0.00
-  - Campaign 5458: segment=MarketSegment({'Young', 'HighIncome'}), days=2-3, reach=386, budget=38.60, done=0/386 (0.0%), cost=0.00
-  - Campaign 5456: segment=MarketSegment({'LowIncome', 'Male'}), days=2-3, reach=1089, budget=108.90, done=0/1089 (0.0%), cost=0.00
-  - Campaign 5459: segment=MarketSegment({'Young', 'Female'}), days=2-2, reach=670, budget=67.00, done=0/670 (0.0%), cost=0.00
+  - Campaign 16446: segment=MarketSegment({'LowIncome', 'Young', 'Male'}), days=1-2, reach=1285, budget=1285.00, done=0/1285 (0.0%), cost=0.00
+  - Campaign 16457: segment=MarketSegment({'HighIncome', 'Male'}), days=2-2, reach=927, budget=92.70, done=0/927 (0.0%), cost=0.00
+  - Campaign 16459: segment=MarketSegment({'Young', 'HighIncome', 'Male'}), days=2-2, reach=155, budget=15.50, done=0/155 (0.0%), cost=0.00
+  - Campaign 16460: segment=MarketSegment({'Old', 'Male'}), days=2-4, reach=1301, budget=130.10, done=0/1301 (0.0%), cost=0.00
+  - Campaign 16458: segment=MarketSegment({'HighIncome', 'Old', 'Male'}), days=2-4, reach=242, budget=24.20, done=0/242 (0.0%), cost=0.00
 ------------------------------------------------------------
 Day 2 Summary for ProfitAgent:
 🧾 Campaigns up for auction: 5
 🎯 Campaigns won: 0
 👥 Users auctioned: 10000
-🎯 Targetable users (in your segments): 7146
-📢 Impressions won: 3734
-✅ Impression success rate: 52.25%
-📊 Quality Score (Q): 0.6664
+🎯 Targetable users (in your segments): 4886
+📢 Impressions won: 2285
+✅ Impression success rate: 46.77%
+📊 Quality Score (Q): 0.6543
 ------------------------------------------------------------
 📝 Current tasks for ProfitAgent:
-  - Campaign 5446: segment=MarketSegment({'Old', 'HighIncome', 'Male'}), days=1-2, reach=404, budget=404.00, done=0/404 (0.0%), cost=0.00
-  - Campaign 5457: segment=MarketSegment({'Young', 'HighIncome', 'Female'}), days=2-2, reach=76, budget=7.60, done=0/76 (0.0%), cost=0.00
-  - Campaign 5460: segment=MarketSegment({'Young', 'Female'}), days=2-4, reach=1118, budget=111.80, done=1305/1118 (116.7%), cost=0.00
-  - Campaign 5458: segment=MarketSegment({'Young', 'HighIncome'}), days=2-3, reach=386, budget=38.60, done=0/386 (0.0%), cost=0.00
-  - Campaign 5456: segment=MarketSegment({'LowIncome', 'Male'}), days=2-3, reach=1089, budget=108.90, done=1760/1089 (161.6%), cost=0.00
-  - Campaign 5459: segment=MarketSegment({'Young', 'Female'}), days=2-2, reach=670, budget=67.00, done=669/670 (99.9%), cost=67.00
+  - Campaign 16446: segment=MarketSegment({'LowIncome', 'Young', 'Male'}), days=1-2, reach=1285, budget=1285.00, done=0/1285 (0.0%), cost=0.00
+  - Campaign 16457: segment=MarketSegment({'HighIncome', 'Male'}), days=2-2, reach=927, budget=92.70, done=867/927 (93.5%), cost=86.70
+  - Campaign 16459: segment=MarketSegment({'Young', 'HighIncome', 'Male'}), days=2-2, reach=155, budget=15.50, done=0/155 (0.0%), cost=0.00
+  - Campaign 16460: segment=MarketSegment({'Old', 'Male'}), days=2-4, reach=1301, budget=130.10, done=1418/1301 (109.0%), cost=43.40
+  - Campaign 16458: segment=MarketSegment({'HighIncome', 'Old', 'Male'}), days=2-4, reach=242, budget=24.20, done=0/242 (0.0%), cost=0.00
 ------------------------------------------------------------
 Day 3 Summary for ProfitAgent:
 🧾 Campaigns up for auction: 5
-🎯 Campaigns won: 5
+🎯 Campaigns won: 0
 👥 Users auctioned: 10000
-🎯 Targetable users (in your segments): 6426
-📢 Impressions won: 3784
-✅ Impression success rate: 58.89%
-📊 Quality Score (Q): 0.6690
+🎯 Targetable users (in your segments): 2648
+📢 Impressions won: 771
+✅ Impression success rate: 29.12%
+📊 Quality Score (Q): 0.6543
 ------------------------------------------------------------
 📝 Current tasks for ProfitAgent:
-  - Campaign 5446: segment=MarketSegment({'Old', 'HighIncome', 'Male'}), days=1-2, reach=404, budget=404.00, done=0/404 (0.0%), cost=0.00
-  - Campaign 5457: segment=MarketSegment({'Young', 'HighIncome', 'Female'}), days=2-2, reach=76, budget=7.60, done=0/76 (0.0%), cost=0.00
-  - Campaign 5460: segment=MarketSegment({'Young', 'Female'}), days=2-4, reach=1118, budget=111.80, done=2880/1118 (257.6%), cost=55.91
-  - Campaign 5458: segment=MarketSegment({'Young', 'HighIncome'}), days=2-3, reach=386, budget=38.60, done=0/386 (0.0%), cost=0.00
-  - Campaign 5456: segment=MarketSegment({'LowIncome', 'Male'}), days=2-3, reach=1089, budget=108.90, done=3969/1089 (364.5%), cost=109.00
-  - Campaign 5459: segment=MarketSegment({'Young', 'Female'}), days=2-2, reach=670, budget=67.00, done=669/670 (99.9%), cost=67.00
-  - Campaign 5468: segment=MarketSegment({'Old', 'HighIncome'}), days=4-4, reach=364, budget=39.43, done=0/364 (0.0%), cost=0.00
-  - Campaign 5470: segment=MarketSegment({'Old', 'LowIncome'}), days=4-5, reach=1258, budget=136.29, done=0/1258 (0.0%), cost=0.00
-  - Campaign 5466: segment=MarketSegment({'Young', 'HighIncome'}), days=4-5, reach=541, budget=58.61, done=0/541 (0.0%), cost=0.00
-  - Campaign 5467: segment=MarketSegment({'Old', 'LowIncome'}), days=4-4, reach=2098, budget=227.29, done=0/2098 (0.0%), cost=0.00
-  - Campaign 5469: segment=MarketSegment({'LowIncome', 'Female'}), days=4-5, reach=3066, budget=332.16, done=0/3066 (0.0%), cost=0.00
+  - Campaign 16446: segment=MarketSegment({'LowIncome', 'Young', 'Male'}), days=1-2, reach=1285, budget=1285.00, done=0/1285 (0.0%), cost=0.00
+  - Campaign 16457: segment=MarketSegment({'HighIncome', 'Male'}), days=2-2, reach=927, budget=92.70, done=867/927 (93.5%), cost=86.70
+  - Campaign 16459: segment=MarketSegment({'Young', 'HighIncome', 'Male'}), days=2-2, reach=155, budget=15.50, done=0/155 (0.0%), cost=0.00
+  - Campaign 16460: segment=MarketSegment({'Old', 'Male'}), days=2-4, reach=1301, budget=130.10, done=1418/1301 (109.0%), cost=43.42
+  - Campaign 16458: segment=MarketSegment({'HighIncome', 'Old', 'Male'}), days=2-4, reach=242, budget=24.20, done=771/242 (318.6%), cost=12.10
 ------------------------------------------------------------
 Day 4 Summary for ProfitAgent:
 🧾 Campaigns up for auction: 5
-🎯 Campaigns won: 4
+🎯 Campaigns won: 0
 👥 Users auctioned: 10000
-🎯 Targetable users (in your segments): 8182
-📢 Impressions won: 7186
-✅ Impression success rate: 87.83%
-📊 Quality Score (Q): 0.9554
+🎯 Targetable users (in your segments): 2517
+📢 Impressions won: 972
+✅ Impression success rate: 38.62%
+📊 Quality Score (Q): 0.9799
 ------------------------------------------------------------
 📝 Current tasks for ProfitAgent:
-  - Campaign 5446: segment=MarketSegment({'Old', 'HighIncome', 'Male'}), days=1-2, reach=404, budget=404.00, done=0/404 (0.0%), cost=0.00
-  - Campaign 5457: segment=MarketSegment({'Young', 'HighIncome', 'Female'}), days=2-2, reach=76, budget=7.60, done=0/76 (0.0%), cost=0.00
-  - Campaign 5460: segment=MarketSegment({'Young', 'Female'}), days=2-4, reach=1118, budget=111.80, done=2880/1118 (257.6%), cost=56.01
-  - Campaign 5458: segment=MarketSegment({'Young', 'HighIncome'}), days=2-3, reach=386, budget=38.60, done=0/386 (0.0%), cost=0.00
-  - Campaign 5456: segment=MarketSegment({'LowIncome', 'Male'}), days=2-3, reach=1089, budget=108.90, done=3969/1089 (364.5%), cost=109.00
-  - Campaign 5459: segment=MarketSegment({'Young', 'Female'}), days=2-2, reach=670, budget=67.00, done=669/670 (99.9%), cost=67.00
-  - Campaign 5468: segment=MarketSegment({'Old', 'HighIncome'}), days=4-4, reach=364, budget=39.43, done=1179/364 (323.9%), cost=25.21
-  - Campaign 5470: segment=MarketSegment({'Old', 'LowIncome'}), days=4-5, reach=1258, budget=136.29, done=618/1258 (49.1%), cost=12.67
-  - Campaign 5466: segment=MarketSegment({'Young', 'HighIncome'}), days=4-5, reach=541, budget=58.61, done=763/541 (141.0%), cost=20.90
-  - Campaign 5467: segment=MarketSegment({'Old', 'LowIncome'}), days=4-4, reach=2098, budget=227.29, done=2272/2098 (108.3%), cost=227.30
-  - Campaign 5469: segment=MarketSegment({'LowIncome', 'Female'}), days=4-5, reach=3066, budget=332.16, done=2354/3066 (76.8%), cost=166.14
-  - Campaign 5475: segment=MarketSegment({'Young', 'Male'}), days=5-7, reach=1647, budget=401.37, done=0/1647 (0.0%), cost=0.00
-  - Campaign 5474: segment=MarketSegment({'Old', 'LowIncome', 'Male'}), days=5-5, reach=538, budget=131.11, done=0/538 (0.0%), cost=0.00
-  - Campaign 5471: segment=MarketSegment({'Young', 'HighIncome', 'Male'}), days=5-7, reach=155, budget=29.02, done=0/155 (0.0%), cost=0.00
-  - Campaign 5472: segment=MarketSegment({'LowIncome', 'Female'}), days=5-5, reach=1314, budget=306.67, done=0/1314 (0.0%), cost=0.00
+  - Campaign 16446: segment=MarketSegment({'LowIncome', 'Young', 'Male'}), days=1-2, reach=1285, budget=1285.00, done=0/1285 (0.0%), cost=0.00
+  - Campaign 16457: segment=MarketSegment({'HighIncome', 'Male'}), days=2-2, reach=927, budget=92.70, done=867/927 (93.5%), cost=86.70
+  - Campaign 16459: segment=MarketSegment({'Young', 'HighIncome', 'Male'}), days=2-2, reach=155, budget=15.50, done=0/155 (0.0%), cost=0.00
+  - Campaign 16460: segment=MarketSegment({'Old', 'Male'}), days=2-4, reach=1301, budget=130.10, done=2390/1301 (183.7%), cost=86.81
+  - Campaign 16458: segment=MarketSegment({'HighIncome', 'Old', 'Male'}), days=2-4, reach=242, budget=24.20, done=771/242 (318.6%), cost=12.12
 ------------------------------------------------------------
 Day 5 Summary for ProfitAgent:
 🧾 Campaigns up for auction: 5
-🎯 Campaigns won: 3
+🎯 Campaigns won: 0
 👥 Users auctioned: 10000
-🎯 Targetable users (in your segments): 8772
-📢 Impressions won: 7259
-✅ Impression success rate: 82.75%
-📊 Quality Score (Q): 0.8664
+🎯 Targetable users (in your segments): 0
+📢 Impressions won: 0
+✅ Impression success rate: 0.00%
+📊 Quality Score (Q): 0.9799
 ------------------------------------------------------------
 📝 Current tasks for ProfitAgent:
-  - Campaign 5446: segment=MarketSegment({'Old', 'HighIncome', 'Male'}), days=1-2, reach=404, budget=404.00, done=0/404 (0.0%), cost=0.00
-  - Campaign 5457: segment=MarketSegment({'Young', 'HighIncome', 'Female'}), days=2-2, reach=76, budget=7.60, done=0/76 (0.0%), cost=0.00
-  - Campaign 5460: segment=MarketSegment({'Young', 'Female'}), days=2-4, reach=1118, budget=111.80, done=2880/1118 (257.6%), cost=56.01
-  - Campaign 5458: segment=MarketSegment({'Young', 'HighIncome'}), days=2-3, reach=386, budget=38.60, done=0/386 (0.0%), cost=0.00
-  - Campaign 5456: segment=MarketSegment({'LowIncome', 'Male'}), days=2-3, reach=1089, budget=108.90, done=3969/1089 (364.5%), cost=109.00
-  - Campaign 5459: segment=MarketSegment({'Young', 'Female'}), days=2-2, reach=670, budget=67.00, done=669/670 (99.9%), cost=67.00
-  - Campaign 5468: segment=MarketSegment({'Old', 'HighIncome'}), days=4-4, reach=364, budget=39.43, done=1179/364 (323.9%), cost=25.21
-  - Campaign 5470: segment=MarketSegment({'Old', 'LowIncome'}), days=4-5, reach=1258, budget=136.29, done=957/1258 (76.1%), cost=46.57
-  - Campaign 5466: segment=MarketSegment({'Young', 'HighIncome'}), days=4-5, reach=541, budget=58.61, done=1040/541 (192.2%), cost=20.90
-  - Campaign 5467: segment=MarketSegment({'Old', 'LowIncome'}), days=4-4, reach=2098, budget=227.29, done=2272/2098 (108.3%), cost=227.30
-  - Campaign 5469: segment=MarketSegment({'LowIncome', 'Female'}), days=4-5, reach=3066, budget=332.16, done=2354/3066 (76.8%), cost=166.24
-  - Campaign 5475: segment=MarketSegment({'Young', 'Male'}), days=5-7, reach=1647, budget=401.37, done=2371/1647 (144.0%), cost=55.00
-  - Campaign 5474: segment=MarketSegment({'Old', 'LowIncome', 'Male'}), days=5-5, reach=538, budget=131.11, done=0/538 (0.0%), cost=0.00
-  - Campaign 5471: segment=MarketSegment({'Young', 'HighIncome', 'Male'}), days=5-7, reach=155, budget=29.02, done=0/155 (0.0%), cost=0.00
-  - Campaign 5472: segment=MarketSegment({'LowIncome', 'Female'}), days=5-5, reach=1314, budget=306.67, done=4272/1314 (325.1%), cost=303.64
-  - Campaign 5476: segment=MarketSegment({'Young', 'HighIncome', 'Female'}), days=6-6, reach=128, budget=14.11, done=0/128 (0.0%), cost=0.00
-  - Campaign 5480: segment=MarketSegment({'LowIncome', 'Male'}), days=6-6, reach=1089, budget=120.04, done=0/1089 (0.0%), cost=0.00
-  - Campaign 5479: segment=MarketSegment({'Old', 'Male'}), days=6-6, reach=1822, budget=200.83, done=0/1822 (0.0%), cost=0.00
+  - Campaign 16446: segment=MarketSegment({'LowIncome', 'Young', 'Male'}), days=1-2, reach=1285, budget=1285.00, done=0/1285 (0.0%), cost=0.00
+  - Campaign 16457: segment=MarketSegment({'HighIncome', 'Male'}), days=2-2, reach=927, budget=92.70, done=867/927 (93.5%), cost=86.70
+  - Campaign 16459: segment=MarketSegment({'Young', 'HighIncome', 'Male'}), days=2-2, reach=155, budget=15.50, done=0/155 (0.0%), cost=0.00
+  - Campaign 16460: segment=MarketSegment({'Old', 'Male'}), days=2-4, reach=1301, budget=130.10, done=2390/1301 (183.7%), cost=86.81
+  - Campaign 16458: segment=MarketSegment({'HighIncome', 'Old', 'Male'}), days=2-4, reach=242, budget=24.20, done=771/242 (318.6%), cost=12.12
 ------------------------------------------------------------
 Day 6 Summary for ProfitAgent:
 🧾 Campaigns up for auction: 5
-🎯 Campaigns won: 0
+🎯 Campaigns won: 4
 👥 Users auctioned: 10000
-🎯 Targetable users (in your segments): 5212
-📢 Impressions won: 5212
-✅ Impression success rate: 100.00%
-📊 Quality Score (Q): 1.0021
+🎯 Targetable users (in your segments): 0
+📢 Impressions won: 0
+✅ Impression success rate: 0.00%
+📊 Quality Score (Q): 0.9799
 ------------------------------------------------------------
 📝 Current tasks for ProfitAgent:
-  - Campaign 5446: segment=MarketSegment({'Old', 'HighIncome', 'Male'}), days=1-2, reach=404, budget=404.00, done=0/404 (0.0%), cost=0.00
-  - Campaign 5457: segment=MarketSegment({'Young', 'HighIncome', 'Female'}), days=2-2, reach=76, budget=7.60, done=0/76 (0.0%), cost=0.00
-  - Campaign 5460: segment=MarketSegment({'Young', 'Female'}), days=2-4, reach=1118, budget=111.80, done=2880/1118 (257.6%), cost=56.01
-  - Campaign 5458: segment=MarketSegment({'Young', 'HighIncome'}), days=2-3, reach=386, budget=38.60, done=0/386 (0.0%), cost=0.00
-  - Campaign 5456: segment=MarketSegment({'LowIncome', 'Male'}), days=2-3, reach=1089, budget=108.90, done=3969/1089 (364.5%), cost=109.00
-  - Campaign 5459: segment=MarketSegment({'Young', 'Female'}), days=2-2, reach=670, budget=67.00, done=669/670 (99.9%), cost=67.00
-  - Campaign 5468: segment=MarketSegment({'Old', 'HighIncome'}), days=4-4, reach=364, budget=39.43, done=1179/364 (323.9%), cost=25.21
-  - Campaign 5470: segment=MarketSegment({'Old', 'LowIncome'}), days=4-5, reach=1258, budget=136.29, done=957/1258 (76.1%), cost=46.57
-  - Campaign 5466: segment=MarketSegment({'Young', 'HighIncome'}), days=4-5, reach=541, budget=58.61, done=1040/541 (192.2%), cost=20.90
-  - Campaign 5467: segment=MarketSegment({'Old', 'LowIncome'}), days=4-4, reach=2098, budget=227.29, done=2272/2098 (108.3%), cost=227.30
-  - Campaign 5469: segment=MarketSegment({'LowIncome', 'Female'}), days=4-5, reach=3066, budget=332.16, done=2354/3066 (76.8%), cost=166.24
-  - Campaign 5475: segment=MarketSegment({'Young', 'Male'}), days=5-7, reach=1647, budget=401.37, done=3552/1647 (215.7%), cost=173.20
-  - Campaign 5474: segment=MarketSegment({'Old', 'LowIncome', 'Male'}), days=5-5, reach=538, budget=131.11, done=0/538 (0.0%), cost=0.00
-  - Campaign 5471: segment=MarketSegment({'Young', 'HighIncome', 'Male'}), days=5-7, reach=155, budget=29.02, done=225/155 (145.2%), cost=0.00
-  - Campaign 5472: segment=MarketSegment({'LowIncome', 'Female'}), days=5-5, reach=1314, budget=306.67, done=4272/1314 (325.1%), cost=303.64
-  - Campaign 5476: segment=MarketSegment({'Young', 'HighIncome', 'Female'}), days=6-6, reach=128, budget=14.11, done=256/128 (200.0%), cost=0.00
-  - Campaign 5480: segment=MarketSegment({'LowIncome', 'Male'}), days=6-6, reach=1089, budget=120.04, done=1013/1089 (93.0%), cost=0.00
-  - Campaign 5479: segment=MarketSegment({'Old', 'Male'}), days=6-6, reach=1822, budget=200.83, done=2537/1822 (139.2%), cost=173.10
+  - Campaign 16446: segment=MarketSegment({'LowIncome', 'Young', 'Male'}), days=1-2, reach=1285, budget=1285.00, done=0/1285 (0.0%), cost=0.00
+  - Campaign 16457: segment=MarketSegment({'HighIncome', 'Male'}), days=2-2, reach=927, budget=92.70, done=867/927 (93.5%), cost=86.70
+  - Campaign 16459: segment=MarketSegment({'Young', 'HighIncome', 'Male'}), days=2-2, reach=155, budget=15.50, done=0/155 (0.0%), cost=0.00
+  - Campaign 16460: segment=MarketSegment({'Old', 'Male'}), days=2-4, reach=1301, budget=130.10, done=2390/1301 (183.7%), cost=86.81
+  - Campaign 16458: segment=MarketSegment({'HighIncome', 'Old', 'Male'}), days=2-4, reach=242, budget=24.20, done=771/242 (318.6%), cost=12.12
+  - Campaign 16481: segment=MarketSegment({'LowIncome', 'Old', 'Male'}), days=7-8, reach=1256, budget=140.83, done=0/1256 (0.0%), cost=0.00
+  - Campaign 16482: segment=MarketSegment({'Young', 'HighIncome'}), days=7-9, reach=231, budget=25.90, done=0/231 (0.0%), cost=0.00
+  - Campaign 16483: segment=MarketSegment({'Old', 'Female'}), days=7-9, reach=1404, budget=157.43, done=0/1404 (0.0%), cost=0.00
+  - Campaign 16484: segment=MarketSegment({'Old', 'Female'}), days=7-9, reach=1965, budget=220.33, done=0/1965 (0.0%), cost=0.00
 ------------------------------------------------------------
 Day 7 Summary for ProfitAgent:
 🧾 Campaigns up for auction: 5
-🎯 Campaigns won: 5
+🎯 Campaigns won: 2
 👥 Users auctioned: 10000
-🎯 Targetable users (in your segments): 2347
-📢 Impressions won: 2347
+🎯 Targetable users (in your segments): 5471
+📢 Impressions won: 5471
 ✅ Impression success rate: 100.00%
-📊 Quality Score (Q): 1.1413
+📊 Quality Score (Q): 0.9799
 ------------------------------------------------------------
 📝 Current tasks for ProfitAgent:
-  - Campaign 5446: segment=MarketSegment({'Old', 'HighIncome', 'Male'}), days=1-2, reach=404, budget=404.00, done=0/404 (0.0%), cost=0.00
-  - Campaign 5457: segment=MarketSegment({'Young', 'HighIncome', 'Female'}), days=2-2, reach=76, budget=7.60, done=0/76 (0.0%), cost=0.00
-  - Campaign 5460: segment=MarketSegment({'Young', 'Female'}), days=2-4, reach=1118, budget=111.80, done=2880/1118 (257.6%), cost=56.01
-  - Campaign 5458: segment=MarketSegment({'Young', 'HighIncome'}), days=2-3, reach=386, budget=38.60, done=0/386 (0.0%), cost=0.00
-  - Campaign 5456: segment=MarketSegment({'LowIncome', 'Male'}), days=2-3, reach=1089, budget=108.90, done=3969/1089 (364.5%), cost=109.00
-  - Campaign 5459: segment=MarketSegment({'Young', 'Female'}), days=2-2, reach=670, budget=67.00, done=669/670 (99.9%), cost=67.00
-  - Campaign 5468: segment=MarketSegment({'Old', 'HighIncome'}), days=4-4, reach=364, budget=39.43, done=1179/364 (323.9%), cost=25.21
-  - Campaign 5470: segment=MarketSegment({'Old', 'LowIncome'}), days=4-5, reach=1258, budget=136.29, done=957/1258 (76.1%), cost=46.57
-  - Campaign 5466: segment=MarketSegment({'Young', 'HighIncome'}), days=4-5, reach=541, budget=58.61, done=1040/541 (192.2%), cost=20.90
-  - Campaign 5467: segment=MarketSegment({'Old', 'LowIncome'}), days=4-4, reach=2098, budget=227.29, done=2272/2098 (108.3%), cost=227.30
-  - Campaign 5469: segment=MarketSegment({'LowIncome', 'Female'}), days=4-5, reach=3066, budget=332.16, done=2354/3066 (76.8%), cost=166.24
-  - Campaign 5475: segment=MarketSegment({'Young', 'Male'}), days=5-7, reach=1647, budget=401.37, done=5899/1647 (358.2%), cost=224.40
-  - Campaign 5474: segment=MarketSegment({'Old', 'LowIncome', 'Male'}), days=5-5, reach=538, budget=131.11, done=0/538 (0.0%), cost=0.00
-  - Campaign 5471: segment=MarketSegment({'Young', 'HighIncome', 'Male'}), days=5-7, reach=155, budget=29.02, done=225/155 (145.2%), cost=0.00
-  - Campaign 5472: segment=MarketSegment({'LowIncome', 'Female'}), days=5-5, reach=1314, budget=306.67, done=4272/1314 (325.1%), cost=303.64
-  - Campaign 5476: segment=MarketSegment({'Young', 'HighIncome', 'Female'}), days=6-6, reach=128, budget=14.11, done=256/128 (200.0%), cost=0.00
-  - Campaign 5480: segment=MarketSegment({'LowIncome', 'Male'}), days=6-6, reach=1089, budget=120.04, done=1013/1089 (93.0%), cost=0.00
-  - Campaign 5479: segment=MarketSegment({'Old', 'Male'}), days=6-6, reach=1822, budget=200.83, done=2537/1822 (139.2%), cost=173.10
-  - Campaign 5490: segment=MarketSegment({'Young', 'LowIncome', 'Female'}), days=8-10, reach=1386, budget=309.92, done=0/1386 (0.0%), cost=0.00
-  - Campaign 5489: segment=MarketSegment({'Young', 'Male'}), days=8-10, reach=705, budget=103.43, done=0/705 (0.0%), cost=0.00
-  - Campaign 5486: segment=MarketSegment({'Old', 'LowIncome', 'Female'}), days=8-9, reach=1680, budget=375.67, done=0/1680 (0.0%), cost=0.00
-  - Campaign 5487: segment=MarketSegment({'Old', 'HighIncome', 'Female'}), days=8-8, reach=122, budget=27.28, done=0/122 (0.0%), cost=0.00
-  - Campaign 5488: segment=MarketSegment({'LowIncome', 'Female'}), days=8-8, reach=2190, budget=489.71, done=0/2190 (0.0%), cost=0.00
+  - Campaign 16446: segment=MarketSegment({'LowIncome', 'Young', 'Male'}), days=1-2, reach=1285, budget=1285.00, done=0/1285 (0.0%), cost=0.00
+  - Campaign 16457: segment=MarketSegment({'HighIncome', 'Male'}), days=2-2, reach=927, budget=92.70, done=867/927 (93.5%), cost=86.70
+  - Campaign 16459: segment=MarketSegment({'Young', 'HighIncome', 'Male'}), days=2-2, reach=155, budget=15.50, done=0/155 (0.0%), cost=0.00
+  - Campaign 16460: segment=MarketSegment({'Old', 'Male'}), days=2-4, reach=1301, budget=130.10, done=2390/1301 (183.7%), cost=86.81
+  - Campaign 16458: segment=MarketSegment({'HighIncome', 'Old', 'Male'}), days=2-4, reach=242, budget=24.20, done=771/242 (318.6%), cost=12.12
+  - Campaign 16481: segment=MarketSegment({'LowIncome', 'Old', 'Male'}), days=7-8, reach=1256, budget=140.83, done=1848/1256 (147.1%), cost=33.31
+  - Campaign 16482: segment=MarketSegment({'Young', 'HighIncome'}), days=7-9, reach=231, budget=25.90, done=815/231 (352.8%), cost=0.00
+  - Campaign 16483: segment=MarketSegment({'Old', 'Female'}), days=7-9, reach=1404, budget=157.43, done=2074/1404 (147.7%), cost=3.00
+  - Campaign 16484: segment=MarketSegment({'Old', 'Female'}), days=7-9, reach=1965, budget=220.33, done=734/1965 (37.4%), cost=73.50
+  - Campaign 16487: segment=MarketSegment({'HighIncome', 'Female'}), days=8-8, reach=464, budget=75.27, done=0/464 (0.0%), cost=0.00
+  - Campaign 16490: segment=MarketSegment({'Young', 'HighIncome'}), days=8-10, reach=231, budget=37.47, done=0/231 (0.0%), cost=0.00
 ------------------------------------------------------------
 Day 8 Summary for ProfitAgent:
 🧾 Campaigns up for auction: 3
-🎯 Campaigns won: 2
+🎯 Campaigns won: 1
 👥 Users auctioned: 10000
-🎯 Targetable users (in your segments): 7102
-📢 Impressions won: 7102
+🎯 Targetable users (in your segments): 5318
+📢 Impressions won: 5318
 ✅ Impression success rate: 100.00%
-📊 Quality Score (Q): 1.2274
+📊 Quality Score (Q): 0.8983
 ------------------------------------------------------------
 📝 Current tasks for ProfitAgent:
-  - Campaign 5446: segment=MarketSegment({'Old', 'HighIncome', 'Male'}), days=1-2, reach=404, budget=404.00, done=0/404 (0.0%), cost=0.00
-  - Campaign 5457: segment=MarketSegment({'Young', 'HighIncome', 'Female'}), days=2-2, reach=76, budget=7.60, done=0/76 (0.0%), cost=0.00
-  - Campaign 5460: segment=MarketSegment({'Young', 'Female'}), days=2-4, reach=1118, budget=111.80, done=2880/1118 (257.6%), cost=56.01
-  - Campaign 5458: segment=MarketSegment({'Young', 'HighIncome'}), days=2-3, reach=386, budget=38.60, done=0/386 (0.0%), cost=0.00
-  - Campaign 5456: segment=MarketSegment({'LowIncome', 'Male'}), days=2-3, reach=1089, budget=108.90, done=3969/1089 (364.5%), cost=109.00
-  - Campaign 5459: segment=MarketSegment({'Young', 'Female'}), days=2-2, reach=670, budget=67.00, done=669/670 (99.9%), cost=67.00
-  - Campaign 5468: segment=MarketSegment({'Old', 'HighIncome'}), days=4-4, reach=364, budget=39.43, done=1179/364 (323.9%), cost=25.21
-  - Campaign 5470: segment=MarketSegment({'Old', 'LowIncome'}), days=4-5, reach=1258, budget=136.29, done=957/1258 (76.1%), cost=46.57
-  - Campaign 5466: segment=MarketSegment({'Young', 'HighIncome'}), days=4-5, reach=541, budget=58.61, done=1040/541 (192.2%), cost=20.90
-  - Campaign 5467: segment=MarketSegment({'Old', 'LowIncome'}), days=4-4, reach=2098, budget=227.29, done=2272/2098 (108.3%), cost=227.30
-  - Campaign 5469: segment=MarketSegment({'LowIncome', 'Female'}), days=4-5, reach=3066, budget=332.16, done=2354/3066 (76.8%), cost=166.24
-  - Campaign 5475: segment=MarketSegment({'Young', 'Male'}), days=5-7, reach=1647, budget=401.37, done=5899/1647 (358.2%), cost=224.40
-  - Campaign 5474: segment=MarketSegment({'Old', 'LowIncome', 'Male'}), days=5-5, reach=538, budget=131.11, done=0/538 (0.0%), cost=0.00
-  - Campaign 5471: segment=MarketSegment({'Young', 'HighIncome', 'Male'}), days=5-7, reach=155, budget=29.02, done=225/155 (145.2%), cost=0.00
-  - Campaign 5472: segment=MarketSegment({'LowIncome', 'Female'}), days=5-5, reach=1314, budget=306.67, done=4272/1314 (325.1%), cost=303.64
-  - Campaign 5476: segment=MarketSegment({'Young', 'HighIncome', 'Female'}), days=6-6, reach=128, budget=14.11, done=256/128 (200.0%), cost=0.00
-  - Campaign 5480: segment=MarketSegment({'LowIncome', 'Male'}), days=6-6, reach=1089, budget=120.04, done=1013/1089 (93.0%), cost=0.00
-  - Campaign 5479: segment=MarketSegment({'Old', 'Male'}), days=6-6, reach=1822, budget=200.83, done=2537/1822 (139.2%), cost=173.10
-  - Campaign 5490: segment=MarketSegment({'Young', 'LowIncome', 'Female'}), days=8-10, reach=1386, budget=309.92, done=0/1386 (0.0%), cost=0.00
-  - Campaign 5489: segment=MarketSegment({'Young', 'Male'}), days=8-10, reach=705, budget=103.43, done=2314/705 (328.2%), cost=0.00
-  - Campaign 5486: segment=MarketSegment({'Old', 'LowIncome', 'Female'}), days=8-9, reach=1680, budget=375.67, done=0/1680 (0.0%), cost=0.00
-  - Campaign 5487: segment=MarketSegment({'Old', 'HighIncome', 'Female'}), days=8-8, reach=122, budget=27.28, done=401/122 (328.7%), cost=8.85
-  - Campaign 5488: segment=MarketSegment({'LowIncome', 'Female'}), days=8-8, reach=2190, budget=489.71, done=4387/2190 (200.3%), cost=438.70
-  - Campaign 5491: segment=MarketSegment({'Young', 'LowIncome', 'Female'}), days=9-9, reach=594, budget=78.86, done=0/594 (0.0%), cost=0.00
-  - Campaign 5495: segment=MarketSegment({'Young', 'Male'}), days=9-9, reach=705, budget=93.59, done=0/705 (0.0%), cost=0.00
+  - Campaign 16446: segment=MarketSegment({'LowIncome', 'Young', 'Male'}), days=1-2, reach=1285, budget=1285.00, done=0/1285 (0.0%), cost=0.00
+  - Campaign 16457: segment=MarketSegment({'HighIncome', 'Male'}), days=2-2, reach=927, budget=92.70, done=867/927 (93.5%), cost=86.70
+  - Campaign 16459: segment=MarketSegment({'Young', 'HighIncome', 'Male'}), days=2-2, reach=155, budget=15.50, done=0/155 (0.0%), cost=0.00
+  - Campaign 16460: segment=MarketSegment({'Old', 'Male'}), days=2-4, reach=1301, budget=130.10, done=2390/1301 (183.7%), cost=86.81
+  - Campaign 16458: segment=MarketSegment({'HighIncome', 'Old', 'Male'}), days=2-4, reach=242, budget=24.20, done=771/242 (318.6%), cost=12.12
+  - Campaign 16481: segment=MarketSegment({'LowIncome', 'Old', 'Male'}), days=7-8, reach=1256, budget=140.83, done=3619/1256 (288.1%), cost=33.31
+  - Campaign 16482: segment=MarketSegment({'Young', 'HighIncome'}), days=7-9, reach=231, budget=25.90, done=1224/231 (529.9%), cost=0.00
+  - Campaign 16483: segment=MarketSegment({'Old', 'Female'}), days=7-9, reach=1404, budget=157.43, done=4821/1404 (343.4%), cost=77.00
+  - Campaign 16484: segment=MarketSegment({'Old', 'Female'}), days=7-9, reach=1965, budget=220.33, done=734/1965 (37.4%), cost=73.60
+  - Campaign 16487: segment=MarketSegment({'HighIncome', 'Female'}), days=8-8, reach=464, budget=75.27, done=267/464 (57.5%), cost=26.70
+  - Campaign 16490: segment=MarketSegment({'Young', 'HighIncome'}), days=8-10, reach=231, budget=37.47, done=124/231 (53.7%), cost=12.50
+  - Campaign 16494: segment=MarketSegment({'HighIncome', 'Female'}), days=9-10, reach=198, budget=25.71, done=0/198 (0.0%), cost=0.00
 ------------------------------------------------------------
 Day 9 Summary for ProfitAgent:
 🧾 Campaigns up for auction: 2
-🎯 Campaigns won: 0
+🎯 Campaigns won: 1
 👥 Users auctioned: 10000
-🎯 Targetable users (in your segments): 6724
-📢 Impressions won: 6724
-✅ Impression success rate: 100.00%
-📊 Quality Score (Q): 1.1062
+🎯 Targetable users (in your segments): 3505
+📢 Impressions won: 1348
+✅ Impression success rate: 38.46%
+📊 Quality Score (Q): 0.9997
 ------------------------------------------------------------
 📝 Current tasks for ProfitAgent:
-  - Campaign 5446: segment=MarketSegment({'Old', 'HighIncome', 'Male'}), days=1-2, reach=404, budget=404.00, done=0/404 (0.0%), cost=0.00
-  - Campaign 5457: segment=MarketSegment({'Young', 'HighIncome', 'Female'}), days=2-2, reach=76, budget=7.60, done=0/76 (0.0%), cost=0.00
-  - Campaign 5460: segment=MarketSegment({'Young', 'Female'}), days=2-4, reach=1118, budget=111.80, done=2880/1118 (257.6%), cost=56.01
-  - Campaign 5458: segment=MarketSegment({'Young', 'HighIncome'}), days=2-3, reach=386, budget=38.60, done=0/386 (0.0%), cost=0.00
-  - Campaign 5456: segment=MarketSegment({'LowIncome', 'Male'}), days=2-3, reach=1089, budget=108.90, done=3969/1089 (364.5%), cost=109.00
-  - Campaign 5459: segment=MarketSegment({'Young', 'Female'}), days=2-2, reach=670, budget=67.00, done=669/670 (99.9%), cost=67.00
-  - Campaign 5468: segment=MarketSegment({'Old', 'HighIncome'}), days=4-4, reach=364, budget=39.43, done=1179/364 (323.9%), cost=25.21
-  - Campaign 5470: segment=MarketSegment({'Old', 'LowIncome'}), days=4-5, reach=1258, budget=136.29, done=957/1258 (76.1%), cost=46.57
-  - Campaign 5466: segment=MarketSegment({'Young', 'HighIncome'}), days=4-5, reach=541, budget=58.61, done=1040/541 (192.2%), cost=20.90
-  - Campaign 5467: segment=MarketSegment({'Old', 'LowIncome'}), days=4-4, reach=2098, budget=227.29, done=2272/2098 (108.3%), cost=227.30
-  - Campaign 5469: segment=MarketSegment({'LowIncome', 'Female'}), days=4-5, reach=3066, budget=332.16, done=2354/3066 (76.8%), cost=166.24
-  - Campaign 5475: segment=MarketSegment({'Young', 'Male'}), days=5-7, reach=1647, budget=401.37, done=5899/1647 (358.2%), cost=224.40
-  - Campaign 5474: segment=MarketSegment({'Old', 'LowIncome', 'Male'}), days=5-5, reach=538, budget=131.11, done=0/538 (0.0%), cost=0.00
-  - Campaign 5471: segment=MarketSegment({'Young', 'HighIncome', 'Male'}), days=5-7, reach=155, budget=29.02, done=225/155 (145.2%), cost=0.00
-  - Campaign 5472: segment=MarketSegment({'LowIncome', 'Female'}), days=5-5, reach=1314, budget=306.67, done=4272/1314 (325.1%), cost=303.64
-  - Campaign 5476: segment=MarketSegment({'Young', 'HighIncome', 'Female'}), days=6-6, reach=128, budget=14.11, done=256/128 (200.0%), cost=0.00
-  - Campaign 5480: segment=MarketSegment({'LowIncome', 'Male'}), days=6-6, reach=1089, budget=120.04, done=1013/1089 (93.0%), cost=0.00
-  - Campaign 5479: segment=MarketSegment({'Old', 'Male'}), days=6-6, reach=1822, budget=200.83, done=2537/1822 (139.2%), cost=173.10
-  - Campaign 5490: segment=MarketSegment({'Young', 'LowIncome', 'Female'}), days=8-10, reach=1386, budget=309.92, done=1549/1386 (111.8%), cost=155.00
-  - Campaign 5489: segment=MarketSegment({'Young', 'Male'}), days=8-10, reach=705, budget=103.43, done=2831/705 (401.6%), cost=51.80
-  - Campaign 5486: segment=MarketSegment({'Old', 'LowIncome', 'Female'}), days=8-9, reach=1680, budget=375.67, done=2349/1680 (139.8%), cost=55.39
-  - Campaign 5487: segment=MarketSegment({'Old', 'HighIncome', 'Female'}), days=8-8, reach=122, budget=27.28, done=401/122 (328.7%), cost=8.85
-  - Campaign 5488: segment=MarketSegment({'LowIncome', 'Female'}), days=8-8, reach=2190, budget=489.71, done=4387/2190 (200.3%), cost=438.70
-  - Campaign 5491: segment=MarketSegment({'Young', 'LowIncome', 'Female'}), days=9-9, reach=594, budget=78.86, done=389/594 (65.5%), cost=6.57
-  - Campaign 5495: segment=MarketSegment({'Young', 'Male'}), days=9-9, reach=705, budget=93.59, done=1920/705 (272.3%), cost=0.00
+  - Campaign 16446: segment=MarketSegment({'LowIncome', 'Young', 'Male'}), days=1-2, reach=1285, budget=1285.00, done=0/1285 (0.0%), cost=0.00
+  - Campaign 16457: segment=MarketSegment({'HighIncome', 'Male'}), days=2-2, reach=927, budget=92.70, done=867/927 (93.5%), cost=86.70
+  - Campaign 16459: segment=MarketSegment({'Young', 'HighIncome', 'Male'}), days=2-2, reach=155, budget=15.50, done=0/155 (0.0%), cost=0.00
+  - Campaign 16460: segment=MarketSegment({'Old', 'Male'}), days=2-4, reach=1301, budget=130.10, done=2390/1301 (183.7%), cost=86.81
+  - Campaign 16458: segment=MarketSegment({'HighIncome', 'Old', 'Male'}), days=2-4, reach=242, budget=24.20, done=771/242 (318.6%), cost=12.12
+  - Campaign 16481: segment=MarketSegment({'LowIncome', 'Old', 'Male'}), days=7-8, reach=1256, budget=140.83, done=3619/1256 (288.1%), cost=33.31
+  - Campaign 16482: segment=MarketSegment({'Young', 'HighIncome'}), days=7-9, reach=231, budget=25.90, done=1483/231 (642.0%), cost=26.00
+  - Campaign 16483: segment=MarketSegment({'Old', 'Female'}), days=7-9, reach=1404, budget=157.43, done=4966/1404 (353.7%), cost=80.47
+  - Campaign 16484: segment=MarketSegment({'Old', 'Female'}), days=7-9, reach=1965, budget=220.33, done=1467/1965 (74.7%), cost=147.00
+  - Campaign 16487: segment=MarketSegment({'HighIncome', 'Female'}), days=8-8, reach=464, budget=75.27, done=267/464 (57.5%), cost=26.70
+  - Campaign 16490: segment=MarketSegment({'Young', 'HighIncome'}), days=8-10, reach=231, budget=37.47, done=134/231 (58.0%), cost=12.55
+  - Campaign 16494: segment=MarketSegment({'HighIncome', 'Female'}), days=9-10, reach=198, budget=25.71, done=201/198 (101.5%), cost=12.94
+  - Campaign 16500: segment=MarketSegment({'HighIncome', 'Male'}), days=10-10, reach=397, budget=59.51, done=0/397 (0.0%), cost=0.00
 ------------------------------------------------------------
 Day 10 Summary for ProfitAgent:
 🧾 Campaigns up for auction: 0
 🎯 Campaigns won: 0
 👥 Users auctioned: 10000
-🎯 Targetable users (in your segments): 4321
-📢 Impressions won: 1959
-✅ Impression success rate: 45.34%
-📊 Quality Score (Q): 1.2194
+🎯 Targetable users (in your segments): 1993
+📢 Impressions won: 1545
+✅ Impression success rate: 77.52%
+📊 Quality Score (Q): 1.1058
 ------------------------------------------------------------
 📝 Current tasks for ProfitAgent:
-  - Campaign 5446: segment=MarketSegment({'Old', 'HighIncome', 'Male'}), days=1-2, reach=404, budget=404.00, done=0/404 (0.0%), cost=0.00
-  - Campaign 5457: segment=MarketSegment({'Young', 'HighIncome', 'Female'}), days=2-2, reach=76, budget=7.60, done=0/76 (0.0%), cost=0.00
-  - Campaign 5460: segment=MarketSegment({'Young', 'Female'}), days=2-4, reach=1118, budget=111.80, done=2880/1118 (257.6%), cost=56.01
-  - Campaign 5458: segment=MarketSegment({'Young', 'HighIncome'}), days=2-3, reach=386, budget=38.60, done=0/386 (0.0%), cost=0.00
-  - Campaign 5456: segment=MarketSegment({'LowIncome', 'Male'}), days=2-3, reach=1089, budget=108.90, done=3969/1089 (364.5%), cost=109.00
-  - Campaign 5459: segment=MarketSegment({'Young', 'Female'}), days=2-2, reach=670, budget=67.00, done=669/670 (99.9%), cost=67.00
-  - Campaign 5468: segment=MarketSegment({'Old', 'HighIncome'}), days=4-4, reach=364, budget=39.43, done=1179/364 (323.9%), cost=25.21
-  - Campaign 5470: segment=MarketSegment({'Old', 'LowIncome'}), days=4-5, reach=1258, budget=136.29, done=957/1258 (76.1%), cost=46.57
-  - Campaign 5466: segment=MarketSegment({'Young', 'HighIncome'}), days=4-5, reach=541, budget=58.61, done=1040/541 (192.2%), cost=20.90
-  - Campaign 5467: segment=MarketSegment({'Old', 'LowIncome'}), days=4-4, reach=2098, budget=227.29, done=2272/2098 (108.3%), cost=227.30
-  - Campaign 5469: segment=MarketSegment({'LowIncome', 'Female'}), days=4-5, reach=3066, budget=332.16, done=2354/3066 (76.8%), cost=166.24
-  - Campaign 5475: segment=MarketSegment({'Young', 'Male'}), days=5-7, reach=1647, budget=401.37, done=5899/1647 (358.2%), cost=224.40
-  - Campaign 5474: segment=MarketSegment({'Old', 'LowIncome', 'Male'}), days=5-5, reach=538, budget=131.11, done=0/538 (0.0%), cost=0.00
-  - Campaign 5471: segment=MarketSegment({'Young', 'HighIncome', 'Male'}), days=5-7, reach=155, budget=29.02, done=225/155 (145.2%), cost=0.00
-  - Campaign 5472: segment=MarketSegment({'LowIncome', 'Female'}), days=5-5, reach=1314, budget=306.67, done=4272/1314 (325.1%), cost=303.64
-  - Campaign 5476: segment=MarketSegment({'Young', 'HighIncome', 'Female'}), days=6-6, reach=128, budget=14.11, done=256/128 (200.0%), cost=0.00
-  - Campaign 5480: segment=MarketSegment({'LowIncome', 'Male'}), days=6-6, reach=1089, budget=120.04, done=1013/1089 (93.0%), cost=0.00
-  - Campaign 5479: segment=MarketSegment({'Old', 'Male'}), days=6-6, reach=1822, budget=200.83, done=2537/1822 (139.2%), cost=173.10
-  - Campaign 5490: segment=MarketSegment({'Young', 'LowIncome', 'Female'}), days=8-10, reach=1386, budget=309.92, done=3508/1386 (253.1%), cost=155.00
-  - Campaign 5489: segment=MarketSegment({'Young', 'Male'}), days=8-10, reach=705, budget=103.43, done=2831/705 (401.6%), cost=51.80
-  - Campaign 5486: segment=MarketSegment({'Old', 'LowIncome', 'Female'}), days=8-9, reach=1680, budget=375.67, done=2349/1680 (139.8%), cost=55.39
-  - Campaign 5487: segment=MarketSegment({'Old', 'HighIncome', 'Female'}), days=8-8, reach=122, budget=27.28, done=401/122 (328.7%), cost=8.85
-  - Campaign 5488: segment=MarketSegment({'LowIncome', 'Female'}), days=8-8, reach=2190, budget=489.71, done=4387/2190 (200.3%), cost=438.70
-  - Campaign 5491: segment=MarketSegment({'Young', 'LowIncome', 'Female'}), days=9-9, reach=594, budget=78.86, done=389/594 (65.5%), cost=6.57
-  - Campaign 5495: segment=MarketSegment({'Young', 'Male'}), days=9-9, reach=705, budget=93.59, done=1920/705 (272.3%), cost=0.00
+  - Campaign 16446: segment=MarketSegment({'LowIncome', 'Young', 'Male'}), days=1-2, reach=1285, budget=1285.00, done=0/1285 (0.0%), cost=0.00
+  - Campaign 16457: segment=MarketSegment({'HighIncome', 'Male'}), days=2-2, reach=927, budget=92.70, done=867/927 (93.5%), cost=86.70
+  - Campaign 16459: segment=MarketSegment({'Young', 'HighIncome', 'Male'}), days=2-2, reach=155, budget=15.50, done=0/155 (0.0%), cost=0.00
+  - Campaign 16460: segment=MarketSegment({'Old', 'Male'}), days=2-4, reach=1301, budget=130.10, done=2390/1301 (183.7%), cost=86.81
+  - Campaign 16458: segment=MarketSegment({'HighIncome', 'Old', 'Male'}), days=2-4, reach=242, budget=24.20, done=771/242 (318.6%), cost=12.12
+  - Campaign 16481: segment=MarketSegment({'LowIncome', 'Old', 'Male'}), days=7-8, reach=1256, budget=140.83, done=3619/1256 (288.1%), cost=33.31
+  - Campaign 16482: segment=MarketSegment({'Young', 'HighIncome'}), days=7-9, reach=231, budget=25.90, done=1483/231 (642.0%), cost=26.00
+  - Campaign 16483: segment=MarketSegment({'Old', 'Female'}), days=7-9, reach=1404, budget=157.43, done=4966/1404 (353.7%), cost=80.47
+  - Campaign 16484: segment=MarketSegment({'Old', 'Female'}), days=7-9, reach=1965, budget=220.33, done=1467/1965 (74.7%), cost=147.00
+  - Campaign 16487: segment=MarketSegment({'HighIncome', 'Female'}), days=8-8, reach=464, budget=75.27, done=267/464 (57.5%), cost=26.70
+  - Campaign 16490: segment=MarketSegment({'Young', 'HighIncome'}), days=8-10, reach=231, budget=37.47, done=458/231 (198.3%), cost=12.55
+  - Campaign 16494: segment=MarketSegment({'HighIncome', 'Female'}), days=9-10, reach=198, budget=25.71, done=201/198 (101.5%), cost=12.96
+  - Campaign 16500: segment=MarketSegment({'HighIncome', 'Male'}), days=10-10, reach=397, budget=59.51, done=1221/397 (307.6%), cost=59.60
 ------------------------------------------------------------

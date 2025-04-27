@@ -170,8 +170,12 @@ if __name__ == "__main__":
     results_dir = pathlib.Path("results")
     results_dir.mkdir(exist_ok=True)
 
-    models = ["ts3.pkl", "ts5.pkl"]
-    sims = 50
+    
+    models = [
+        
+        "ts_l2_v1.pkl",   "ts_l2_v2.pkl",   "ts_l2_v5.pkl",
+    ]
+    sims = 100
     for mf in models:
         print("\n" + "="*60)
         print(f" MODEL: {mf} ".center(60, "="))
